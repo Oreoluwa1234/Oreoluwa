@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45424924/178570815-184ae271-dc05-4c06-ba6a-3a71c41d6b1b.png">
-</p>
 
 <h1 align="center">Introduction</h1>
 <p align="justify">Hi, I'm Oreoluwa Boluwatife Babatunde, a student and dedicated researcher focusing on Natural Language Processing in low-resource regimes.  </p>
